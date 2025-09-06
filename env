@@ -1,0 +1,4 @@
+COMMUNICATION_SERVICES_CONNECTION_STRING=endpoint=https://sns.unitedstates.communication.azure.com/;accesskey=4hZMWRHJhXb5thyFMTURUhvmmaIQ8Em1bTLdSgtDzUtafFfxIhIbJQQJ99BIACULyCpm5mzpAAAAAZCSFXZZ
+PORT=8080
+BATCH_SIZE=50
+CONCURRENCY=4
